@@ -5,5 +5,4 @@ hello world!hello git!
 hello world!hello git!
 hello world!hello git!
 hello world!hello git!
-wonder world!
-new
+new hello world!
